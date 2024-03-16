@@ -57,7 +57,7 @@
         </card>
         <card>
             <name>Death Bringer</name>
-            <text>When this unit enter the battlelfield each player destroy one of their's unit's</text>
+            <text>When this unit enter the battlefield each player destroy one of their's unit's</text>
             <prop>
                 <type>Unit</type>
                 <manacost>3</manacost>
@@ -68,7 +68,7 @@
         </card>
         <card>
             <name>Finisher of the weak</name>
-            <text>When this unit enter the battlelfield destroy damaged unit</text>
+            <text>When this unit enter the battlefield destroy damaged unit</text>
             <prop>
                 <type>Unit</type>
                 <manacost>1</manacost>
@@ -79,11 +79,44 @@
         </card>
         <card>
             <name>Grave digger</name>
-            <text>When this unit enter the battelfield</text>
+            <text>When this unit enter the battlefield return up to 5 cards from gone pack to your deck</text>
             <prop>
                 <type>Unit</type>
                 <manacost>3</manacost>
                 <pt>4/3</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Undertaker</name>
+            <text>When this unit enter the battlefield destroy unit, deal 3 damage to opponent</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>6</manacost>
+                <pt>5/3</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Gatekeeper</name>
+            <text>Destroy this unit: you may cast units from gone pack this turn</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>4</manacost>
+                <pt>2/2</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Newim</name>
+            <text>3 res: you may play one spell from the gone pack</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>2</manacost>
+                <pt>1/3</pt>
                 <colors>Black</colors>
             </prop>
             <set>ondrahra</set>
