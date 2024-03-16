@@ -9,3 +9,4 @@ ID,Name,Type,RC,Color,P/T,Text
 8,Undertaker,Unit,6,Black,5/3,"When this unit enter the battlefield destroy unit, deal 3 damage to opponent"
 9,Gatekeeper,Unit,4,Black,2/2,Destroy this unit: you may cast units from gone pack this turn
 10,Newim,Unit,2,Black,1/3,3 res: you may play one spell from the gone pack
+11,Killing word,Spell,3,Black,,Destroy target unit
