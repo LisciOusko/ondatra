@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>ondrahra</name>
+            <longname>ondatra ondrahra</longname>
+            <settype>Custom</settype>
+            <releasedate>2024-03-15</releasedate>
+        </set>
+    </sets>
+    
+     
+    <cards>
+        <card>
+            <name>Nightmare Reaper</name>
+            <text>Can't be blocked. Can't be cast.</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>30</manacost>
+                <pt>25/25</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Assassin</name>
+            <text>Destroy any unit damaged by this unit.</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>2</manacost>
+                <pt>1/1</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Coffin Keeper</name>
+            <text>Can't block. When this unit is destroyed, return another unit from your's gone pack to the battlefield.</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>5</manacost>
+                <pt>3/1</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Corpse Collector</name>
+            <text>When one or more unit's are destroyed draw a card.</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>4</manacost>
+                <pt>1/3</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Death Bringer</name>
+            <text>When this unit enter the battlelfield each player destroy one of their's unit's</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>3</manacost>
+                <pt>3/2</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Finisher of the weak</name>
+            <text>When this unit enter the battlelfield destroy damaged unit</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>1</manacost>
+                <pt>2/1</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+        <card>
+            <name>Grave digger</name>
+            <text>When this unit enter the battelfield</text>
+            <prop>
+                <type>Unit</type>
+                <manacost>3</manacost>
+                <pt>4/3</pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

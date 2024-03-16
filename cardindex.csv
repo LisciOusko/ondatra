@@ -1,0 +1,8 @@
+ID,Name,Type,Resource cost,Color,P/T,Text
+1,Nightmare Reaper,Unit,30,Black,25/25,Can't be blocked. Can't be cast.
+2,Assassin,Unit,2,Black,1/1,Destroy any unit damaged by this unit.
+3,Coffin Keeper,Unit,5,Black,3/1,"Can't block. When this unit is destroyed, return another unit from your's gone pack to the battlefield."
+4,Corpse Collector,Unit,4,Black,1/3,When one or more unit's are destroyed draw a card.
+5,Death Bringer,Unit,3,Black,3/2,When this unit enter the battlelfield each player destroy one of their's unit's
+6,Finisher of the weak,Unit,1,Black,2/1,When this unit enter the battlelfield destroy damaged unit
+7,Grave digger,Unit,3,Black,4/3,When this unit enter the battelfield
