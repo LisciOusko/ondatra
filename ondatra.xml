@@ -121,5 +121,16 @@
             </prop>
             <set>ondrahra</set>
         </card>
+        <card>
+            <name>Killing word</name>
+            <text>Destroy target unit</text>
+            <prop>
+                <type>Spell</type>
+                <manacost>3</manacost>
+                <pt></pt>
+                <colors>Black</colors>
+            </prop>
+            <set>ondrahra</set>
+        </card>
     </cards>
 </cockatrice_carddatabase>
